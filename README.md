@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a student of: [THPT Chuyên Lương Văn Chánh - Phú Yên]([https://hcmute.edu.vn](http://luongvanchanh.phuyen.edu.vn/)) (LVC).
+- ✍ I'm a student of: [THPT Chuyên Lương Văn Chánh - Phú Yên](http://luongvanchanh.phuyen.edu.vn/) (LVC).
 
 - 🌱 I’m currently learning **Python.**
 
